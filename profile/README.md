@@ -10,8 +10,7 @@ You can download the package manager from [@MolassesLover's](https://github.com/
 package manager to GNU/Linux. This package manager aims to compliment other existing package managers such as 
 `apt`, `dnf`, `portage`, etc. Dependencies are often times installed from your GNU/Linux distribution's repositories. 
 
-
-> **Note**: as the development of the BeePM project continues, more and more distribution packages will be replaced.
+> **Note**: As the development of the BeePM project continues, more and more distribution packages will be replaced.
 
 # Is Bee for Me?
 
