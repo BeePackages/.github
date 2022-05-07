@@ -28,7 +28,7 @@ the BeePM project is sure to have plenty of packages.
 - Various packages to alter the look and feel of your system.
 - Hundreds of developer libraries from various platforms.
 - An elegant command-line application with a fancy loading bar.
-- Torrent packages, allowing users to create decentralzsed packages.
+- Torrent packages, allowing users to create decentralizsed packages.
 - ### Package extensions!
 - Mods, hacks, and plugins for games.
 - Browser extension management.
