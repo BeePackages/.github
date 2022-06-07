@@ -5,10 +5,10 @@
 
 # Welcome!
 This GitHub organization contains all the official packages for the Bee package manager, also known as BeePM/BPM! 
-You can download the package manager from [@MolassesLover's](https://github.com/MolassesLover) repository, 
-[here](https://github.com/MolassesLover/Bee.git). The Bee project brings another copyleft and open-source
-package manager to GNU/Linux. This package manager aims to compliment other existing package managers such as 
-`apt`, `dnf`, `portage`, etc. Dependencies are often times installed from your GNU/Linux distribution's repositories. 
+You can download the package manager from our repository, [here](https://github.com/BeePackages/Bee). 
+The Bee project brings another copyleft and open-source package manager to GNU/Linux. This package 
+manager aims to compliment other existing package managers such as `apt`, `dnf`, `portage`, etc. 
+Dependencies are often times installed from your GNU/Linux distribution's repositories. 
 
 > **Note**: As the development of the BeePM project continues, more and more distribution packages will be replaced.
 
