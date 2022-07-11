@@ -22,12 +22,8 @@ the BeePM project is sure to have plenty of packages.
 <br clear="left"/>
 
 # Plans & Features
-- Two GUI applications, using GTK and QT, respectively.
-- Game packages, featuring [Itch.io](https://itch.io/) and [Steam](https://store.steampowered.com/) games.
-- Various packages to alter the look and feel of your system.
 - Hundreds of developer libraries from various platforms.
 - An elegant command-line application with a fancy loading bar.
-- Torrent packages, allowing users to create decentralised packages.
 - ### Package extensions!
-- Mods, hacks, and plugins.
+- Mods, add-ons, and plugins.
 - Browser extension management.
